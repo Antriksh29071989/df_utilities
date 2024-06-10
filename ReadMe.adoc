@@ -1,0 +1,9 @@
+# DF Utilities
+
+A utility that is responsible for finding duplicates in a given data frame.
+
+## Additional Details
+- Integrate it with slack, msteams.
+- Added required logging for debugging.
+- As a next step, we can create a docker image and can deploy on Kubernetes cluster.
+- Configure Kubernetes cluster with autoscaling to add/remove nodes based on the traffic .
